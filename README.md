@@ -1,16 +1,14 @@
-## Hi there 👋
+## Привет, я Геннадий! 👋
 
-<!--
-**Rchi3-new/Rchi3-new** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎮 О себе
+Я — геймдизайнер с опытом создания игр на различных движках. Работаю в Siemens Healthineers и увлекаюсь разработкой игр в свободное время.
 
-Here are some ideas to get you started:
+### 🌐 Мои проекты
+- **UnrealSpaceInvaders** — ремейк классической игры Space Invaders на Unreal Engine.
+- **Joe** — текстовый квест, разработанный с использованием Batchfile.
+- **TPPrototype** — прототип игры на C#.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Контакты
+- [itch.io](https://gtuchkov.itch.io/)
+- [LinkedIn](ссылка на ваш профиль)
+- [Twitter](ссылка на ваш профиль)
