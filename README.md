@@ -10,5 +10,4 @@
 
 ### 📫 Контакты
 - [itch.io](https://gtuchkov.itch.io/)
-- [LinkedIn](ссылка на ваш профиль)
-- [Twitter](ссылка на ваш профиль)
+- [LinkedIn](https://www.linkedin.com/in/gennadiy-tuchkov-5865a82b1/)
